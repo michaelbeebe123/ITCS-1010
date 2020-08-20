@@ -1,0 +1,10 @@
+C:\Users\Michael\OneDrive\Lakeland\ITCS-1010\logic-plans\Logic-Plan-9-MBeebe\bin\Debug\Logic-Plan-9-MBeebe.exe.config
+C:\Users\Michael\OneDrive\Lakeland\ITCS-1010\logic-plans\Logic-Plan-9-MBeebe\bin\Debug\Logic-Plan-9-MBeebe.exe
+C:\Users\Michael\OneDrive\Lakeland\ITCS-1010\logic-plans\Logic-Plan-9-MBeebe\bin\Debug\Logic-Plan-9-MBeebe.pdb
+C:\Users\Michael\OneDrive\Lakeland\ITCS-1010\logic-plans\Logic-Plan-9-MBeebe\obj\Debug\Logic-Plan-9-MBeebe.csprojAssemblyReference.cache
+C:\Users\Michael\OneDrive\Lakeland\ITCS-1010\logic-plans\Logic-Plan-9-MBeebe\obj\Debug\Logic_Plan_9_MBeebe.showDirection.resources
+C:\Users\Michael\OneDrive\Lakeland\ITCS-1010\logic-plans\Logic-Plan-9-MBeebe\obj\Debug\Logic_Plan_9_MBeebe.Properties.Resources.resources
+C:\Users\Michael\OneDrive\Lakeland\ITCS-1010\logic-plans\Logic-Plan-9-MBeebe\obj\Debug\Logic-Plan-9-MBeebe.csproj.GenerateResource.cache
+C:\Users\Michael\OneDrive\Lakeland\ITCS-1010\logic-plans\Logic-Plan-9-MBeebe\obj\Debug\Logic-Plan-9-MBeebe.csproj.CoreCompileInputs.cache
+C:\Users\Michael\OneDrive\Lakeland\ITCS-1010\logic-plans\Logic-Plan-9-MBeebe\obj\Debug\Logic-Plan-9-MBeebe.exe
+C:\Users\Michael\OneDrive\Lakeland\ITCS-1010\logic-plans\Logic-Plan-9-MBeebe\obj\Debug\Logic-Plan-9-MBeebe.pdb
