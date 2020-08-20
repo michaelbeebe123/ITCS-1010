@@ -1,0 +1,10 @@
+C:\Users\Beebe\OneDrive\Lakeland\ITCS-1010\logic-plans\Logic-Plan-5-MBeebe\Logic-Plan-5-MBeebe\bin\Debug\Logic-Plan-5-MBeebe.exe.config
+C:\Users\Beebe\OneDrive\Lakeland\ITCS-1010\logic-plans\Logic-Plan-5-MBeebe\Logic-Plan-5-MBeebe\bin\Debug\Logic-Plan-5-MBeebe.exe
+C:\Users\Beebe\OneDrive\Lakeland\ITCS-1010\logic-plans\Logic-Plan-5-MBeebe\Logic-Plan-5-MBeebe\bin\Debug\Logic-Plan-5-MBeebe.pdb
+C:\Users\Beebe\OneDrive\Lakeland\ITCS-1010\logic-plans\Logic-Plan-5-MBeebe\Logic-Plan-5-MBeebe\obj\Debug\Logic-Plan-5-MBeebe.csprojAssemblyReference.cache
+C:\Users\Beebe\OneDrive\Lakeland\ITCS-1010\logic-plans\Logic-Plan-5-MBeebe\Logic-Plan-5-MBeebe\obj\Debug\Logic_Plan_5_MBeebe.distanceCalculator.resources
+C:\Users\Beebe\OneDrive\Lakeland\ITCS-1010\logic-plans\Logic-Plan-5-MBeebe\Logic-Plan-5-MBeebe\obj\Debug\Logic_Plan_5_MBeebe.Properties.Resources.resources
+C:\Users\Beebe\OneDrive\Lakeland\ITCS-1010\logic-plans\Logic-Plan-5-MBeebe\Logic-Plan-5-MBeebe\obj\Debug\Logic-Plan-5-MBeebe.csproj.GenerateResource.cache
+C:\Users\Beebe\OneDrive\Lakeland\ITCS-1010\logic-plans\Logic-Plan-5-MBeebe\Logic-Plan-5-MBeebe\obj\Debug\Logic-Plan-5-MBeebe.csproj.CoreCompileInputs.cache
+C:\Users\Beebe\OneDrive\Lakeland\ITCS-1010\logic-plans\Logic-Plan-5-MBeebe\Logic-Plan-5-MBeebe\obj\Debug\Logic-Plan-5-MBeebe.exe
+C:\Users\Beebe\OneDrive\Lakeland\ITCS-1010\logic-plans\Logic-Plan-5-MBeebe\Logic-Plan-5-MBeebe\obj\Debug\Logic-Plan-5-MBeebe.pdb
